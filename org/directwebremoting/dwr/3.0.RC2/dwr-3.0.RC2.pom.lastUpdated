@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 20:59:29 CST 2013
+http\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1364821168638
+da39a3ee5e6b4b0d3255bfef95601890afd80709@127.0.0.1\:8580>default-http\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1364821098430
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364821168021
+http\://oss.sonatype.org/content/repositories/releases/.error=
+http\://clojars.org/repo/.lastUpdated=1364821169080
+http\://repo.maven.apache.org/maven2/.error=
+da39a3ee5e6b4b0d3255bfef95601890afd80709@127.0.0.1\:8580>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1364821097414
+da39a3ee5e6b4b0d3255bfef95601890afd80709@127.0.0.1\:8580>default-http\://clojars.org/repo/.lastUpdated=1364821065575
+http\://clojars.org/repo/.error=
