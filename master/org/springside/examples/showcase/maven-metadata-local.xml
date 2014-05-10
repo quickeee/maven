@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.springside</groupId>
-  <artifactId>springside-core</artifactId>
+  <groupId>org.springside.examples</groupId>
+  <artifactId>showcase</artifactId>
   <versioning>
     <release>4.2.1.GA</release>
     <versions>
-      <version>4.0.0.RELEASE-SNAPSHOT</version>
       <version>4.2.1.GA</version>
     </versions>
-    <lastUpdated>20140510070318</lastUpdated>
+    <lastUpdated>20140510070609</lastUpdated>
   </versioning>
 </metadata>

@@ -2,11 +2,12 @@
 <metadata>
   <groupId>org.springside</groupId>
   <artifactId>springside-parent</artifactId>
-  <version>4.0.0.RELEASE-SNAPSHOT</version>
   <versioning>
+    <release>4.2.1.GA</release>
     <versions>
       <version>4.0.0.RELEASE-SNAPSHOT</version>
+      <version>4.2.1.GA</version>
     </versions>
-    <lastUpdated>20120329132152</lastUpdated>
+    <lastUpdated>20140510070130</lastUpdated>
   </versioning>
 </metadata>

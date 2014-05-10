@@ -1,8 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jul 09 15:14:47 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1373354087845
+#Tue Jul 09 16:21:43 CST 2013
 https\://springside.googlecode.com/svn-history/r1708/springside-repository/release/.lastUpdated=1361761541829
 http\://source.sakaiproject.org/maven2/.error=
-http\://repo.maven.apache.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1373354087845
+https\://raw.github.com/grossopa/maven/master/.lastUpdated=1373358017354
 https\://springside.googlecode.com/svn/springside-repository/release/.lastUpdated=1362972341323
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/grossopa/maven/master/master/.lastUpdated=1373358103256
 http\://source.sakaiproject.org/maven2/.lastUpdated=1362971670300
+https\://raw.github.com/grossopa/maven/master/.error=

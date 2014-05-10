@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 10 15:03:18 CST 2014
+springside-core-4.2.1.GA.jar>=
+springside-core-4.2.1.GA-tests.jar>=
+springside-core-4.2.1.GA.pom>=
+springside-core-4.2.1.GA-sources.jar>=
